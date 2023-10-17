@@ -1,7 +1,5 @@
 # View [here](https://jenniferr326.github.io/streaming-service-landing-page/)
 
-# <a href="https://jenniferr326.github.io/streaming-service-landing-page/" target="_blank" rel="noopener">Link</a>
-
 
 # Streaming Service Landing Page
 
