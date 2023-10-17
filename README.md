@@ -1,4 +1,4 @@
-# View [here](https://jenniferr326.github.io/streaming/)
+# View [here](https://jenniferr326.github.io/streaming-service-landing-page/)
 
 # Streaming Service Landing Page
 
