@@ -6,11 +6,15 @@ This is a simple HTML web page that serves as a landing page for a streaming ser
 
 # Features
 
-A responsive design that adapts to different screen sizes.
-Information about the streaming service's features and benefits.
-Pricing information for different subscription plans.
-A contact section with links to FAQs, investor relations, and more.
-A footer with additional links and contact information.
+A responsive design that adapts to different screen sizes
+
+Information about the streaming service's features and benefits
+
+Pricing information for different subscription plans
+
+A contact section with links to FAQs, investor relations, and more
+
+A footer with additional links and contact information
 
 # Usage
 
