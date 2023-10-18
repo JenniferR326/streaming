@@ -1,6 +1,3 @@
-# View [here](https://jenniferr326.github.io/streaming-service-landing-page/)
-
-
 # Streaming Service Landing Page
 
 This is a simple HTML web page that serves as a landing page for a streaming service. The page is designed to provide information about the service, its features, pricing, and ways to get in touch.
